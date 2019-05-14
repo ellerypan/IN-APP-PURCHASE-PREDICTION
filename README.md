@@ -12,7 +12,7 @@ Our first task was to create labels from the Events table that indicated whether
 
 ## Team Responsibilities
 
-- Zack: Featuring engineering, modeling, Machine Learning section of paper
-- Xinke: EDA, EDA and Experimental Results sections of Paper
+- Zack: Featuring engineering, modeling, Machine Learning section of the paper
+- Xinke: EDA and Experimental Results sections of Paper
 - Nicole: Created labels for training, Abstract and Feature Engineering/Appendix
 sections of the paper
